@@ -1,0 +1,15 @@
+2020-10-20 11:54:54 DEBUG Incoming request login controller : Login [username=OJAS2, password=ojas1525]
+2020-10-20 11:54:55 ERROR Exception caught
+2020-10-20 11:55:29 DEBUG Incoming request login controller : Login [username=OJAS2, password=$2a$10$ilztG1fxR9AbtyHJXwtNgOkVjFBhQ609osy4CiyLU.mXuja4xsqNa]
+2020-10-20 11:55:29 ERROR Exception caught
+2020-10-20 15:28:52 DEBUG Incoming request login controller : Login [username=OJAS2, password=ojas1525]
+2020-10-20 15:29:04 ERROR Exception caught
+2020-10-20 15:36:59 DEBUG Incoming request login controller : Login [username=OJAS2, password=ojas1525]
+2020-10-20 15:37:00 ERROR Exception caught
+2020-10-20 18:51:10 DEBUG Incoming request login controller : Login [username=OJAS2, password=ojas1525]
+2020-10-20 18:51:12 ERROR Exception caught
+2020-10-20 18:52:10 DEBUG Incoming request login controller : Login [username=OJAS2, password=ojas1525]
+2020-10-20 18:52:10 ERROR Exception caught
+2020-10-20 19:34:35 DEBUG Incoming request login controller : Login [username=OJAS2, password=ojas1525]
+2020-10-20 19:34:38 DEBUG Incoming request custom user details service load method : OJAS2
+2020-10-20 19:34:38 DEBUG Incoming request create token method : OJAS2 and BDM
