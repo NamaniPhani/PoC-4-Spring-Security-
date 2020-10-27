@@ -1,0 +1,6 @@
+2020-10-20 15:17:49 DEBUG Incoming request twt token generator tokenresolved method : org.springframework.security.web.header.HeaderWriterFilter$HeaderWriterRequest@33f06373
+2020-10-20 15:21:23 DEBUG Incoming request twt token generator tokenresolved method : org.springframework.security.web.header.HeaderWriterFilter$HeaderWriterRequest@78a6e397
+2020-10-20 15:21:24 DEBUG Incoming request create token method : Lakshmi12435 and ADMIN
+2020-10-20 15:23:01 DEBUG Incoming request twt token generator tokenresolved method : org.springframework.security.web.header.HeaderWriterFilter$HeaderWriterRequest@69b56cfc
+2020-10-20 15:23:01 DEBUG Incoming request twt token generator validate token method : eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJMYWtzaG1pMTI0MzUiLCJyb2xlcyI6IkFETUlOIiwiZXhwIjoxNjAzMTkxMDg0LCJpYXQiOjE2MDMxODc0ODR9.g4EmJrjI-xNzyhGkJuCFgUDflFmrLhPi6XFkT9CNsE4
+2020-10-20 15:23:01 DEBUG Incoming request twt token generator auth method : eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJMYWtzaG1pMTI0MzUiLCJyb2xlcyI6IkFETUlOIiwiZXhwIjoxNjAzMTkxMDg0LCJpYXQiOjE2MDMxODc0ODR9.g4EmJrjI-xNzyhGkJuCFgUDflFmrLhPi6XFkT9CNsE4
