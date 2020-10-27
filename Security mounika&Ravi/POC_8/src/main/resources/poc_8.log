@@ -1,0 +1,118 @@
+2020-10-13 18:01:41 DEBUG Incoming request user controller : User [id=null, username=OJAS1, password=ojas1525, roles=[Role [id=null, name=ADMIN]]]
+2020-10-13 18:01:41 DEBUG Incoming request user service : User [id=null, username=OJAS1, password=ojas1525, roles=[Role [id=null, name=ADMIN]]]
+2020-10-13 18:12:53 DEBUG Incoming request user controller : User [id=null, username=OJAS, password=ojas1525, roles=[Role [id=null, name=HR]]]
+2020-10-13 18:12:53 DEBUG Incoming request user service : User [id=null, username=OJAS, password=ojas1525, roles=[Role [id=null, name=HR]]]
+2020-10-13 18:14:09 DEBUG Incoming request job controller : Job [id=null, jobTitle=Java Developer1, jobDescription=Need POC for Ecommerce website using spring boot with micro service., country=IND, state=TN, availability=Part-Time, replyRate=0, payRate=44, experience=2, language=English, jobType=UI Design, skills=Java, Spring Boot, Hibernate, Micro Service, REST]
+2020-10-13 18:14:09 DEBUG Incoming request job service : Job [id=null, jobTitle=Java Developer1, jobDescription=Need POC for Ecommerce website using spring boot with micro service., country=IND, state=TN, availability=Part-Time, replyRate=0, payRate=44, experience=2, language=English, jobType=UI Design, skills=Java, Spring Boot, Hibernate, Micro Service, REST]
+2020-10-14 12:43:08 DEBUG Incoming request user controller : User [id=null, username=OJAS1, password=ojas1525, roles=[Role [id=null, name=ADMIN]]]
+2020-10-14 12:43:08 DEBUG Incoming request user service : User [id=null, username=OJAS1, password=ojas1525, roles=[Role [id=null, name=ADMIN]]]
+2020-10-14 12:43:23 DEBUG Incoming request user controller : User [id=null, username=OJAS2, password=ojas1525, roles=[Role [id=null, name=HR]]]
+2020-10-14 12:43:23 DEBUG Incoming request user service : User [id=null, username=OJAS2, password=ojas1525, roles=[Role [id=null, name=HR]]]
+2020-10-14 12:49:06 DEBUG Incoming request job controller : Job [id=null, jobTitle=Java Developer1, jobDescription=Need POC for Ecommerce website using spring boot with micro service., country=IND, state=TN, availability=Part-Time, replyRate=0, payRate=44, experience=2, language=English, jobType=UI Design, skills=Java, Spring Boot, Hibernate, Micro Service, REST]
+2020-10-14 12:49:06 DEBUG Incoming request job service : Job [id=null, jobTitle=Java Developer1, jobDescription=Need POC for Ecommerce website using spring boot with micro service., country=IND, state=TN, availability=Part-Time, replyRate=0, payRate=44, experience=2, language=English, jobType=UI Design, skills=Java, Spring Boot, Hibernate, Micro Service, REST]
+2020-10-14 12:49:14 DEBUG Incoming request job controller : Job [id=null, jobTitle=Java Developer2, jobDescription=Need POC for Ecommerce website using spring boot with micro service., country=IND, state=TN, availability=Part-Time, replyRate=0, payRate=44, experience=2, language=English, jobType=UI Design, skills=Java, Spring Boot, Hibernate, Micro Service, REST]
+2020-10-14 12:49:14 DEBUG Incoming request job service : Job [id=null, jobTitle=Java Developer2, jobDescription=Need POC for Ecommerce website using spring boot with micro service., country=IND, state=TN, availability=Part-Time, replyRate=0, payRate=44, experience=2, language=English, jobType=UI Design, skills=Java, Spring Boot, Hibernate, Micro Service, REST]
+2020-10-14 14:37:02 DEBUG Incoming request login controller : com.ojas.model.Login@7fdb1418
+2020-10-14 16:58:53 DEBUG Incoming request httpsecurity configure method : org.springframework.security.config.annotation.web.builders.HttpSecurity@4e0203f8
+2020-10-14 16:58:53 DEBUG Incoming request web security method  org.springframework.security.config.annotation.web.builders.WebSecurity@76f15f40
+2020-10-14 16:59:54 DEBUG Incoming request httpsecurity configure method : org.springframework.security.config.annotation.web.builders.HttpSecurity@2eda00d3
+2020-10-14 16:59:54 DEBUG Incoming request web security method : org.springframework.security.config.annotation.web.builders.WebSecurity@522e3d9d
+2020-10-14 17:00:55 DEBUG Incoming request httpsecurity configure method : org.springframework.security.config.annotation.web.builders.HttpSecurity@24a2a607
+2020-10-14 17:00:55 DEBUG Incoming request web security method : org.springframework.security.config.annotation.web.builders.WebSecurity@4fe95a4b
+2020-10-14 17:02:33 DEBUG Incoming request httpsecurity configure method : org.springframework.security.config.annotation.web.builders.HttpSecurity@55e3ff19
+2020-10-14 17:02:33 DEBUG Incoming request web security method : org.springframework.security.config.annotation.web.builders.WebSecurity@6073cf82
+2020-10-14 17:03:47 DEBUG Incoming request httpsecurity configure method : org.springframework.security.config.annotation.web.builders.HttpSecurity@3318354f
+2020-10-14 17:03:47 DEBUG Incoming request web security method : org.springframework.security.config.annotation.web.builders.WebSecurity@52b02064
+2020-10-14 17:06:01 DEBUG Incoming request httpsecurity configure method : org.springframework.security.config.annotation.web.builders.HttpSecurity@2834474d
+2020-10-14 17:06:01 DEBUG Incoming request web security method : org.springframework.security.config.annotation.web.builders.WebSecurity@79f02125
+2020-10-14 17:06:54 DEBUG Incoming request httpsecurity configure method : org.springframework.security.config.annotation.web.builders.HttpSecurity@170f05b
+2020-10-14 17:06:54 DEBUG Incoming request web security method : org.springframework.security.config.annotation.web.builders.WebSecurity@2136bf25
+2020-10-14 17:07:19 DEBUG Incoming request httpsecurity configure method : org.springframework.security.config.annotation.web.builders.HttpSecurity@4595205b
+2020-10-14 17:07:19 DEBUG Incoming request web security method : org.springframework.security.config.annotation.web.builders.WebSecurity@512c3400
+2020-10-14 17:08:20 DEBUG Incoming request httpsecurity configure method : org.springframework.security.config.annotation.web.builders.HttpSecurity@4817f2a1
+2020-10-14 17:08:20 DEBUG Incoming request web security method : org.springframework.security.config.annotation.web.builders.WebSecurity@740691d
+2020-10-14 17:10:12 DEBUG Incoming request httpsecurity configure method : org.springframework.security.config.annotation.web.builders.HttpSecurity@5c0c1d92
+2020-10-14 17:10:12 DEBUG Incoming request web security method : org.springframework.security.config.annotation.web.builders.WebSecurity@4cb53778
+2020-10-14 17:11:54 DEBUG Incoming request httpsecurity configure method : org.springframework.security.config.annotation.web.builders.HttpSecurity@7303d760
+2020-10-14 17:11:54 DEBUG Incoming request web security method : org.springframework.security.config.annotation.web.builders.WebSecurity@4462ff15
+2020-10-14 17:12:30 DEBUG Incoming request httpsecurity configure method : org.springframework.security.config.annotation.web.builders.HttpSecurity@7db1d8ca
+2020-10-14 17:12:30 DEBUG Incoming request web security method : org.springframework.security.config.annotation.web.builders.WebSecurity@5d2701fa
+2020-10-14 17:12:39 DEBUG Incoming request httpsecurity configure method : org.springframework.security.config.annotation.web.builders.HttpSecurity@723d20dc
+2020-10-14 17:12:39 DEBUG Incoming request web security method : org.springframework.security.config.annotation.web.builders.WebSecurity@6ab2f461
+2020-10-14 17:12:44 DEBUG Incoming request httpsecurity configure method : org.springframework.security.config.annotation.web.builders.HttpSecurity@27ab7870
+2020-10-14 17:12:44 DEBUG Incoming request web security method : org.springframework.security.config.annotation.web.builders.WebSecurity@647878d0
+2020-10-14 17:29:41 DEBUG Incoming request httpsecurity configure method : org.springframework.security.config.annotation.web.builders.HttpSecurity@5ae8e50f
+2020-10-14 17:29:41 DEBUG Incoming request web security method : org.springframework.security.config.annotation.web.builders.WebSecurity@4a687d41
+2020-10-14 17:30:08 DEBUG Incoming request httpsecurity configure method : org.springframework.security.config.annotation.web.builders.HttpSecurity@6aeaad47
+2020-10-14 17:30:08 DEBUG Incoming request web security method : org.springframework.security.config.annotation.web.builders.WebSecurity@260c026e
+2020-10-14 17:30:18 DEBUG Incoming request httpsecurity configure method : org.springframework.security.config.annotation.web.builders.HttpSecurity@59e0f224
+2020-10-14 17:30:18 DEBUG Incoming request web security method : org.springframework.security.config.annotation.web.builders.WebSecurity@4110132b
+2020-10-14 17:45:03 DEBUG Incoming request httpsecurity configure method : org.springframework.security.config.annotation.web.builders.HttpSecurity@4f33406f
+2020-10-14 17:45:03 DEBUG Incoming request web security method : org.springframework.security.config.annotation.web.builders.WebSecurity@5369af0b
+2020-10-14 17:45:18 DEBUG Incoming request httpsecurity configure method : org.springframework.security.config.annotation.web.builders.HttpSecurity@57f8c7c9
+2020-10-14 17:45:18 DEBUG Incoming request web security method : org.springframework.security.config.annotation.web.builders.WebSecurity@5116965b
+2020-10-14 17:45:24 DEBUG Incoming request httpsecurity configure method : org.springframework.security.config.annotation.web.builders.HttpSecurity@29ae51a7
+2020-10-14 17:45:24 DEBUG Incoming request web security method : org.springframework.security.config.annotation.web.builders.WebSecurity@3dc71e9a
+2020-10-14 17:51:59 DEBUG Incoming request httpsecurity configure method : org.springframework.security.config.annotation.web.builders.HttpSecurity@abc728f
+2020-10-14 17:51:59 DEBUG Incoming request web security method : org.springframework.security.config.annotation.web.builders.WebSecurity@76d56ede
+2020-10-14 17:55:44 DEBUG Incoming request user controller : User [id=0, username=Ojas, password=Ojas1525, roles=[Role [id=0, name=ADMIN]]]
+2020-10-14 17:55:44 DEBUG Incoming request user service : User [id=0, username=Ojas, password=Ojas1525, roles=[Role [id=0, name=ADMIN]]]
+2020-10-14 17:59:14 DEBUG Incoming request httpsecurity configure method : org.springframework.security.config.annotation.web.builders.HttpSecurity@581e2029
+2020-10-14 17:59:14 DEBUG Incoming request web security method : org.springframework.security.config.annotation.web.builders.WebSecurity@56408cc1
+2020-10-14 18:02:28 DEBUG Incoming request httpsecurity configure method : org.springframework.security.config.annotation.web.builders.HttpSecurity@3bc9c89d
+2020-10-14 18:02:28 DEBUG Incoming request web security method : org.springframework.security.config.annotation.web.builders.WebSecurity@5fb96951
+2020-10-14 18:24:02 DEBUG Incoming request httpsecurity configure method : org.springframework.security.config.annotation.web.builders.HttpSecurity@579aa0d
+2020-10-14 18:24:02 DEBUG Incoming request web security method : org.springframework.security.config.annotation.web.builders.WebSecurity@7f046c31
+2020-10-14 18:24:28 DEBUG Incoming request login controller : com.ojas.model.Login@7d60d426
+2020-10-14 18:24:28 DEBUG Incoming request custom user details service load method : OJAS1
+2020-10-14 18:24:28 DEBUG Incoming request create token method : OJAS1 and ADMIN
+2020-10-14 18:25:33 DEBUG Incoming request user controller : User [id=null, username=Ojas101, password=ojas1525, roles=[Role [id=null, name=ADMIN]]]
+2020-10-14 18:25:33 DEBUG Incoming request user service : User [id=null, username=Ojas101, password=ojas1525, roles=[Role [id=null, name=ADMIN]]]
+2020-10-14 18:26:01 DEBUG Incoming request login controller : com.ojas.model.Login@660f730a
+2020-10-14 18:26:01 DEBUG Incoming request custom user details service load method : Ojas101
+2020-10-14 18:26:01 DEBUG Incoming request create token method : Ojas101 and ADMIN
+2020-10-14 18:56:12 DEBUG Incoming request httpsecurity configure method : org.springframework.security.config.annotation.web.builders.HttpSecurity@401b06b7
+2020-10-14 18:56:12 DEBUG Incoming request web security method : org.springframework.security.config.annotation.web.builders.WebSecurity@5c22e539
+2020-10-14 18:57:04 DEBUG Incoming request httpsecurity configure method : org.springframework.security.config.annotation.web.builders.HttpSecurity@7654bd18
+2020-10-14 18:57:04 DEBUG Incoming request web security method : org.springframework.security.config.annotation.web.builders.WebSecurity@695e60ac
+2020-10-14 18:57:28 DEBUG Incoming request httpsecurity configure method : org.springframework.security.config.annotation.web.builders.HttpSecurity@3e9db094
+2020-10-14 18:57:28 DEBUG Incoming request web security method : org.springframework.security.config.annotation.web.builders.WebSecurity@3000cfc
+2020-10-14 18:58:43 DEBUG Incoming request httpsecurity configure method : org.springframework.security.config.annotation.web.builders.HttpSecurity@59ddbae4
+2020-10-14 18:58:43 DEBUG Incoming request web security method : org.springframework.security.config.annotation.web.builders.WebSecurity@471d3d40
+2020-10-14 18:59:24 DEBUG Incoming request httpsecurity configure method : org.springframework.security.config.annotation.web.builders.HttpSecurity@37cb5424
+2020-10-14 18:59:24 DEBUG Incoming request web security method : org.springframework.security.config.annotation.web.builders.WebSecurity@4d7df161
+2020-10-14 19:00:48 DEBUG Incoming request httpsecurity configure method : org.springframework.security.config.annotation.web.builders.HttpSecurity@343d9ed4
+2020-10-14 19:00:48 DEBUG Incoming request web security method : org.springframework.security.config.annotation.web.builders.WebSecurity@7f247a3d
+2020-10-14 19:00:52 DEBUG Incoming request httpsecurity configure method : org.springframework.security.config.annotation.web.builders.HttpSecurity@29823c54
+2020-10-14 19:00:52 DEBUG Incoming request web security method : org.springframework.security.config.annotation.web.builders.WebSecurity@63e71649
+2020-10-14 19:01:13 DEBUG Incoming request httpsecurity configure method : org.springframework.security.config.annotation.web.builders.HttpSecurity@4e9c526a
+2020-10-14 19:01:13 DEBUG Incoming request web security method : org.springframework.security.config.annotation.web.builders.WebSecurity@42771f0d
+2020-10-14 19:01:28 DEBUG Incoming request httpsecurity configure method : org.springframework.security.config.annotation.web.builders.HttpSecurity@52a8278
+2020-10-14 19:01:28 DEBUG Incoming request web security method : org.springframework.security.config.annotation.web.builders.WebSecurity@5b2265b9
+2020-10-14 19:02:23 DEBUG Incoming request httpsecurity configure method : org.springframework.security.config.annotation.web.builders.HttpSecurity@626b032
+2020-10-14 19:02:23 DEBUG Incoming request web security method : org.springframework.security.config.annotation.web.builders.WebSecurity@6a497547
+2020-10-14 19:02:23 DEBUG Incoming request jwtconfigurer configurer method : org.springframework.security.config.annotation.web.builders.HttpSecurity@626b032
+2020-10-14 19:05:29 DEBUG Incoming request httpsecurity configure method : org.springframework.security.config.annotation.web.builders.HttpSecurity@1a492a1a
+2020-10-14 19:05:29 DEBUG Incoming request web security method : org.springframework.security.config.annotation.web.builders.WebSecurity@42914470
+2020-10-14 19:05:29 DEBUG Incoming request jwtconfigurer configurer method : org.springframework.security.config.annotation.web.builders.HttpSecurity@1a492a1a
+2020-10-14 19:05:50 DEBUG Incoming request httpsecurity configure method : org.springframework.security.config.annotation.web.builders.HttpSecurity@48833096
+2020-10-14 19:05:50 DEBUG Incoming request web security method : org.springframework.security.config.annotation.web.builders.WebSecurity@57fe7335
+2020-10-14 19:05:51 DEBUG Incoming request jwtconfigurer configurer method : org.springframework.security.config.annotation.web.builders.HttpSecurity@48833096
+2020-10-14 19:05:58 DEBUG Incoming request httpsecurity configure method : org.springframework.security.config.annotation.web.builders.HttpSecurity@8c25021
+2020-10-14 19:05:58 DEBUG Incoming request web security method : org.springframework.security.config.annotation.web.builders.WebSecurity@3f08fb6
+2020-10-14 19:05:58 DEBUG Incoming request jwtconfigurer configurer method : org.springframework.security.config.annotation.web.builders.HttpSecurity@8c25021
+2020-10-14 19:13:31 DEBUG Incoming request httpsecurity configure method : org.springframework.security.config.annotation.web.builders.HttpSecurity@7d5cd1b5
+2020-10-14 19:13:31 DEBUG Incoming request web security method : org.springframework.security.config.annotation.web.builders.WebSecurity@17a211b8
+2020-10-14 19:13:31 DEBUG Incoming request jwtconfigurer configurer method : org.springframework.security.config.annotation.web.builders.HttpSecurity@7d5cd1b5
+2020-10-14 19:14:06 DEBUG Incoming request httpsecurity configure method : org.springframework.security.config.annotation.web.builders.HttpSecurity@296dfe7d
+2020-10-14 19:14:06 DEBUG Incoming request web security method : org.springframework.security.config.annotation.web.builders.WebSecurity@7d70f58
+2020-10-14 19:14:06 DEBUG Incoming request jwtconfigurer configurer method : org.springframework.security.config.annotation.web.builders.HttpSecurity@296dfe7d
+2020-10-14 19:14:22 DEBUG Incoming request httpsecurity configure method : org.springframework.security.config.annotation.web.builders.HttpSecurity@5f0b28aa
+2020-10-14 19:14:22 DEBUG Incoming request web security method : org.springframework.security.config.annotation.web.builders.WebSecurity@65b9a6df
+2020-10-14 19:14:22 DEBUG Incoming request jwtconfigurer configurer method : org.springframework.security.config.annotation.web.builders.HttpSecurity@5f0b28aa
+2020-10-14 19:15:05 DEBUG Incoming request httpsecurity configure method : org.springframework.security.config.annotation.web.builders.HttpSecurity@266bc051
+2020-10-14 19:15:05 DEBUG Incoming request web security method : org.springframework.security.config.annotation.web.builders.WebSecurity@3598c666
+2020-10-14 19:15:05 DEBUG Incoming request jwtconfigurer configurer method : org.springframework.security.config.annotation.web.builders.HttpSecurity@266bc051
+2020-10-14 19:15:11 DEBUG Incoming request httpsecurity configure method : org.springframework.security.config.annotation.web.builders.HttpSecurity@5fe6ad6d
+2020-10-14 19:15:11 DEBUG Incoming request web security method : org.springframework.security.config.annotation.web.builders.WebSecurity@54e7fa0f
+2020-10-14 19:15:11 DEBUG Incoming request jwtconfigurer configurer method : org.springframework.security.config.annotation.web.builders.HttpSecurity@5fe6ad6d
